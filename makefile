@@ -1,4 +1,4 @@
-PROG = iot_app
+PROG = main
 
 SRC = main.cpp
 CFLAGS = -g -std=c++17 -Wall
